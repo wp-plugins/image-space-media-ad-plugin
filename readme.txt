@@ -14,16 +14,16 @@ The ISM plugin optimizes your Wordpress blog for Image Space Media's in-image ad
 Image Space Media is the leading provider of online in-image advertising. We match relevant ads to images across our publisher network, reaching over 40 million unique users and serving hundreds of millions of impressions each month--without compromising your priceless content.
 
 == Installation ==
-This plug-in will insert the Image Space Media (ISM) ad code into your blog. However, before we can start targeting ads to your blog, you will need to setup an account. The following are the steps for account registration.
+This plugin will insert the Image Space Media (ISM) ad code into your blog. However, before we can start targeting ads to your blog, you will need to setup an account. The following are the steps for account registration.
 
 1. Register for an account at http://www.imagespacemedia.com/
 2. We will approve your account within 24 hours. 
 3. Once approved, login at http://www.imagespacemedia.com/
-4. You're ready to start the plug-in installation.
+4. You're ready to start the plugin installation.
 
-To install the plug-in, follow these instructions:
+To install the plugin, follow these instructions:
 
-1. Upload `plugin-name.php` to the `/wp-content/plugins/` directory
+1. Upload `ImageSpaceMediaPlugin.php` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Congratulations! You're ready to start earning money!
 
@@ -47,7 +47,6 @@ In-image advertising is an overlay technology that matches relevant ads with ima
 * Easy to install — just one snippet of JavaScript or simple WordPress widget.
 * Our sophisticated keyword matching is based on your metadata and page data to ensure all ads are targeted and relevant.
 * Doesn’t conflict with other revenue sources.
-* In-image ads have higher eCPMs than banner ads. 
 
 
 = How does Image Space Media's technology work? = 
